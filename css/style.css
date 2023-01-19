@@ -1,0 +1,28 @@
+/*header{
+    background-color: aquamarine !important;
+    width: 100% !important;
+    padding: 4px !important;
+
+}
+.header{
+    background-color: rgb(53, 8, 255);
+    width: 100%;
+    padding: 4px;
+}
+
+#header{
+    background-color: blueviolet;
+    color: white;
+    width: 100%;
+    padding: 4px;
+}*/
+.border-danger-img{
+    background-color: blueviolet !important;    
+}
+
+.text-pink{
+    color: #d63384;
+}
+.text-brown{
+    color:#9E4C12;
+}
